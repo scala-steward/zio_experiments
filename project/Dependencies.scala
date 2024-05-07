@@ -3,7 +3,7 @@ import sbt._
 object Dependencies {
   object Versions {
     val circe = "0.13.0"
-    val ciris = "1.2.1"
+    val ciris = "3.6.0"
     val http4s = "0.21.20"
     val http4sTracer = "1.5.3"
     val jaeger = "1.5.0"
